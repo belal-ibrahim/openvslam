@@ -15,7 +15,7 @@
 
 [<img src="https://user-images.githubusercontent.com/27731036/91303519-ba238c00-e7da-11ea-897e-d7cff1e05ba9.gif" width="640px">](https://www.youtube.com/watch?v=1WVdkKwxJaM)
 
-[**[PrePrint]**](https://arxiv.org/abs/1910.01122) [**[YouTube]**](https://www.youtube.com/watch?v=Ro_s3Lbx5ms)
+[**[PrePrint]**](https://arxiv.org/abs/1910.01122) [**[YouTube]**](https://www.youtube.com/watch?v=1WVdkKwxJaM)
 
 OpenVSLAM is a monocular, stereo, and RGBD visual SLAM system.
 The notable features are:
