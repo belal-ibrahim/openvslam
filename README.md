@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/xdspacelab/openvslam/master/docs/img/logo.png" width="435px">
 </p>
 
-# OpenVSLAM: A Versatile Visual SLAM Framework
+# OpenVSLAM: A Versatile Visual SLAM Framework on spherical video 
 [![Wercker Status](https://app.wercker.com/status/8b02a43f48216385658bb3857aae5fd8/s/master)](https://app.wercker.com/shinsumicco/openvslam/runs)
 [![Travis CI Status](https://api.travis-ci.org/xdspacelab/openvslam.svg?branch=master)](https://travis-ci.org/xdspacelab/openvslam)
 [![Documentation Status](https://readthedocs.org/projects/openvslam/badge/?version=master)](https://openvslam.readthedocs.io/)
